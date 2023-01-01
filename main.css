@@ -47,3 +47,8 @@ ul {
   padding: 20px 0;
   text-align: center;
 }
+.footer__list {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
