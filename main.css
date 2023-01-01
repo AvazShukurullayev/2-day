@@ -41,3 +41,9 @@ ul {
   line-height: 30px;
   color: #909090;
 }
+
+.footer {
+  background-color: #ccc;
+  padding: 20px 0;
+  text-align: center;
+}
