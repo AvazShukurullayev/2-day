@@ -1,2 +1,2 @@
 # 2-day
-Learning forntend
+Learning front end development 💻
